@@ -8,7 +8,9 @@
   
 </div>
 
-![Luis Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LrdxL&show_icons=true&theme=radical)
+![Luis Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LrdxL&show_icons=true&theme=dark)
+
+
 
 ## Technologies I use in my day.
 
@@ -21,3 +23,5 @@
 <h3>
  A young man passionate about technology and programming.
 </h3>
+
+
